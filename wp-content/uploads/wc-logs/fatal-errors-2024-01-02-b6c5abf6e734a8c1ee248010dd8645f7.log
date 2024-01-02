@@ -1,0 +1,90 @@
+2024-01-02T02:30:39+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\mb_strtolower() in /var/www/html/akai_games/wp-content/plugins/elementor/includes/utils.php:639
+Stack trace:
+#0 /var/www/html/akai_games/wp-content/plugins/elementor-pro/modules/custom-attributes/module.php(110): Elementor\Utils::parse_custom_attributes()
+#1 /var/www/html/akai_games/wp-includes/class-wp-hook.php(324): ElementorPro\Modules\CustomAttributes\Module->render_attributes()
+#2 /var/www/html/akai_games/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /var/www/html/akai_games/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/akai_games/wp-content/plugins/elementor/includes/base/element-base.php(664): do_action()
+#5 /var/www/html/akai_games/wp-content/plugins/elementor/includes/base/widget-base.php(455): Elementor\Element_Base->add_render_attributes()
+#6 /var/www/html/akai_games/wp-content/plugins/elementor/includes/base/element-base.php(475): Elementor\Widget_Base->add_render_attributes()
+#7 /var/www/html/akai_games/wp in /var/www/html/akai_games/wp-content/plugins/elementor/includes/utils.php on line 639
+
+2024-01-02T02:30:40+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\mb_strtolower() in /var/www/html/akai_games/wp-content/plugins/elementor/includes/utils.php:639
+Stack trace:
+#0 /var/www/html/akai_games/wp-content/plugins/elementor-pro/modules/custom-attributes/module.php(110): Elementor\Utils::parse_custom_attributes()
+#1 /var/www/html/akai_games/wp-includes/class-wp-hook.php(324): ElementorPro\Modules\CustomAttributes\Module->render_attributes()
+#2 /var/www/html/akai_games/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /var/www/html/akai_games/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/akai_games/wp-content/plugins/elementor/includes/base/element-base.php(664): do_action()
+#5 /var/www/html/akai_games/wp-content/plugins/elementor/includes/base/widget-base.php(455): Elementor\Element_Base->add_render_attributes()
+#6 /var/www/html/akai_games/wp-content/plugins/elementor/includes/base/element-base.php(475): Elementor\Widget_Base->add_render_attributes()
+#7 /var/www/html/akai_games/wp in /var/www/html/akai_games/wp-content/plugins/elementor/includes/utils.php on line 639
+
+2024-01-02T02:30:54+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\mb_strtolower() in /var/www/html/akai_games/wp-content/plugins/elementor/includes/utils.php:639
+Stack trace:
+#0 /var/www/html/akai_games/wp-content/plugins/elementor-pro/modules/custom-attributes/module.php(110): Elementor\Utils::parse_custom_attributes()
+#1 /var/www/html/akai_games/wp-includes/class-wp-hook.php(324): ElementorPro\Modules\CustomAttributes\Module->render_attributes()
+#2 /var/www/html/akai_games/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /var/www/html/akai_games/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/akai_games/wp-content/plugins/elementor/includes/base/element-base.php(664): do_action()
+#5 /var/www/html/akai_games/wp-content/plugins/elementor/includes/base/widget-base.php(455): Elementor\Element_Base->add_render_attributes()
+#6 /var/www/html/akai_games/wp-content/plugins/elementor/includes/base/element-base.php(475): Elementor\Widget_Base->add_render_attributes()
+#7 /var/www/html/akai_games/wp in /var/www/html/akai_games/wp-content/plugins/elementor/includes/utils.php on line 639
+
+2024-01-02T02:31:05+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\mb_strtolower() in /var/www/html/akai_games/wp-content/plugins/elementor/includes/utils.php:639
+Stack trace:
+#0 /var/www/html/akai_games/wp-content/plugins/elementor-pro/modules/custom-attributes/module.php(110): Elementor\Utils::parse_custom_attributes()
+#1 /var/www/html/akai_games/wp-includes/class-wp-hook.php(324): ElementorPro\Modules\CustomAttributes\Module->render_attributes()
+#2 /var/www/html/akai_games/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /var/www/html/akai_games/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/akai_games/wp-content/plugins/elementor/includes/base/element-base.php(664): do_action()
+#5 /var/www/html/akai_games/wp-content/plugins/elementor/includes/base/widget-base.php(455): Elementor\Element_Base->add_render_attributes()
+#6 /var/www/html/akai_games/wp-content/plugins/elementor/includes/base/element-base.php(475): Elementor\Widget_Base->add_render_attributes()
+#7 /var/www/html/akai_games/wp in /var/www/html/akai_games/wp-content/plugins/elementor/includes/utils.php on line 639
+
+2024-01-02T02:31:07+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\mb_strtolower() in /var/www/html/akai_games/wp-content/plugins/elementor/includes/utils.php:639
+Stack trace:
+#0 /var/www/html/akai_games/wp-content/plugins/elementor-pro/modules/custom-attributes/module.php(110): Elementor\Utils::parse_custom_attributes()
+#1 /var/www/html/akai_games/wp-includes/class-wp-hook.php(324): ElementorPro\Modules\CustomAttributes\Module->render_attributes()
+#2 /var/www/html/akai_games/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /var/www/html/akai_games/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/akai_games/wp-content/plugins/elementor/includes/base/element-base.php(664): do_action()
+#5 /var/www/html/akai_games/wp-content/plugins/elementor/includes/base/widget-base.php(455): Elementor\Element_Base->add_render_attributes()
+#6 /var/www/html/akai_games/wp-content/plugins/elementor/includes/base/element-base.php(475): Elementor\Widget_Base->add_render_attributes()
+#7 /var/www/html/akai_games/wp in /var/www/html/akai_games/wp-content/plugins/elementor/includes/utils.php on line 639
+
+2024-01-02T02:31:12+00:00 CRITICAL Uncaught Error: Call to undefined function Elementor\mb_strtolower() in /var/www/html/akai_games/wp-content/plugins/elementor/includes/utils.php:639
+Stack trace:
+#0 /var/www/html/akai_games/wp-content/plugins/elementor-pro/modules/custom-attributes/module.php(110): Elementor\Utils::parse_custom_attributes()
+#1 /var/www/html/akai_games/wp-includes/class-wp-hook.php(324): ElementorPro\Modules\CustomAttributes\Module->render_attributes()
+#2 /var/www/html/akai_games/wp-includes/class-wp-hook.php(348): WP_Hook->apply_filters()
+#3 /var/www/html/akai_games/wp-includes/plugin.php(517): WP_Hook->do_action()
+#4 /var/www/html/akai_games/wp-content/plugins/elementor/includes/base/element-base.php(664): do_action()
+#5 /var/www/html/akai_games/wp-content/plugins/elementor/includes/base/widget-base.php(455): Elementor\Element_Base->add_render_attributes()
+#6 /var/www/html/akai_games/wp-content/plugins/elementor/includes/base/element-base.php(475): Elementor\Widget_Base->add_render_attributes()
+#7 /var/www/html/akai_games/wp in /var/www/html/akai_games/wp-content/plugins/elementor/includes/utils.php on line 639
+
+2024-01-02T03:02:13+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 438272 bytes) in /var/www/html/akai_games/wp-includes/class-wpdb.php on line 2320
+
+2024-01-02T03:02:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 438272 bytes) in /var/www/html/akai_games/wp-includes/class-wpdb.php on line 2320
+
+2024-01-02T03:02:32+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 438272 bytes) in /var/www/html/akai_games/wp-includes/class-wpdb.php on line 2320
+
+2024-01-02T03:02:57+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 438272 bytes) in /var/www/html/akai_games/wp-includes/class-wpdb.php on line 2320
+
+2024-01-02T03:03:12+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 438272 bytes) in /var/www/html/akai_games/wp-includes/class-wpdb.php on line 2320
+
+2024-01-02T03:03:36+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 438272 bytes) in /var/www/html/akai_games/wp-includes/class-wpdb.php on line 2320
+
+2024-01-02T03:03:40+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1249280 bytes) in /var/www/html/akai_games/wp-includes/class-wpdb.php on line 2320
+
+2024-01-02T03:03:50+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1249280 bytes) in /var/www/html/akai_games/wp-includes/class-wpdb.php on line 2320
+
+2024-01-02T03:03:54+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 438272 bytes) in /var/www/html/akai_games/wp-includes/class-wpdb.php on line 2320
+
+2024-01-02T03:03:57+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1249280 bytes) in /var/www/html/akai_games/wp-includes/class-wpdb.php on line 2320
+
+2024-01-02T03:04:02+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1249280 bytes) in /var/www/html/akai_games/wp-includes/class-wpdb.php on line 2320
+
+2024-01-02T03:04:28+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1249280 bytes) in /var/www/html/akai_games/wp-includes/class-wpdb.php on line 2320
+
